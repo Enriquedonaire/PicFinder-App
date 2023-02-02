@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PicFinder-App/static/css/main.9500d044.css",
-    "main.js": "/PicFinder-App/static/js/main.a14661ee.js",
+    "main.js": "/PicFinder-App/static/js/main.c42ff2d2.js",
     "static/media/logo.gif": "/PicFinder-App/static/media/logo.ee1b6d33059891fe4daa.gif",
     "static/media/404notfound.png": "/PicFinder-App/static/media/404notfound.a639ace73b6667a9e375.png",
     "index.html": "/PicFinder-App/index.html",
     "main.9500d044.css.map": "/PicFinder-App/static/css/main.9500d044.css.map",
-    "main.a14661ee.js.map": "/PicFinder-App/static/js/main.a14661ee.js.map"
+    "main.c42ff2d2.js.map": "/PicFinder-App/static/js/main.c42ff2d2.js.map"
   },
   "entrypoints": [
     "static/css/main.9500d044.css",
-    "static/js/main.a14661ee.js"
+    "static/js/main.c42ff2d2.js"
   ]
 }
