@@ -1,4 +1,7 @@
-# PicFinder
-https://enriquedonaire.github.io/PicFinder-App
+# PicFinder - Photo Searcher App
 <br/>
 Search for any images 
+<br/>
+
+https://enriquedonaire.github.io/PicFinder-App
+
