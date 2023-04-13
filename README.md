@@ -3,10 +3,10 @@
 <br/>
 # Tecnologies: <br/>
 <br/>
-- ReactJS
-- SwiperJS
-- Unsplash-API
-- StyledComponents
+- ReactJS <br/>
+- SwiperJS <br/>
+- Unsplash-API <br/>
+- StyledComponents <br/>
 <br/>
 <br/>
 Search for any images 📸
