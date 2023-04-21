@@ -7,6 +7,8 @@
 - SwiperJS <br/>
 - Unsplash-API <br/>
 - StyledComponents <br/>
+- Material UI <br/>
+
 <br/>
 <br/>
 Search for any images 📸
