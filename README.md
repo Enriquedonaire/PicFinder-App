@@ -1,8 +1,9 @@
 # PicFinder - Photo Searcher App
 <br/>
-<br/>
-# Tecnologies: <br/>
-<br/>
+
+
+# Tecnologies: 
+
 - ReactJS <br/>
 - SwiperJS <br/>
 - Unsplash-API <br/>
