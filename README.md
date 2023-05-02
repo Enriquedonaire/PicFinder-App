@@ -1,6 +1,4 @@
-# PicFinder - Photo Searcher App
-<br/>
-
+# 📸 PicFinder - Photo Searcher App 📸
 
 # Tecnologies: 
 
