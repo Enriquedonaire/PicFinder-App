@@ -1,4 +1,4 @@
-# 📸 PicFinder - Photo Searcher App 📸
+# PicFinder - Photo Searcher App 📸
 
 # Tecnologies: 
 
@@ -10,7 +10,7 @@
 
 <br/>
 <br/>
-Search for any images 📸
+Search for any images 🖼️
 <br/>
 <br/>
 https://enriquedonaire.github.io/PicFinder-App
