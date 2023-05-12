@@ -9,7 +9,6 @@
 - Material UI <br/>
 
 # 🔎 Search for any images 📸
-<br/>
-<br/>
-https://enriquedonaire.github.io/PicFinder-App 
+
+# https://enriquedonaire.github.io/PicFinder-App 
 
