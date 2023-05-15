@@ -8,7 +8,7 @@
 - StyledComponents <br/>
 - Material UI <br/>
 
-# 🔎 Search for any images 📸
+# 🔎 Search for any images 🔎
 
 # https://enriquedonaire.github.io/PicFinder-App 
 
