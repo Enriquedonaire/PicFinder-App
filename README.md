@@ -1,6 +1,6 @@
-#   📷 PicFinder - Photo Searcher App 
+#   PicFinder - Photo Searcher App  📷
 
-#  Tecnologies 🧰 : 
+#   🧰Tecnologies: 
 
 - ReactJS <br/>
 - SwiperJS <br/>
